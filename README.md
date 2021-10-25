@@ -15,7 +15,9 @@ a repo of knowledge, including links, scripts, tools, instructions and more for 
 - Tools
 
 # Must Reads
+A curated list of sections you must read
 - [Rust on Bare Metal](https://github.com/imagineeeinc/repo-o-knowledge/tree/main/rust#rust-on-bare-metal)
 
 # Great Instructions
+A curated list of great and popular instructions
 - [Instaling Rust on windows](https://github.com/imagineeeinc/repo-o-knowledge/tree/main/rust#instalation-on-windows)
