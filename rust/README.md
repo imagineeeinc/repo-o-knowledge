@@ -5,6 +5,7 @@ This section is for rust based knowledge
 # Contents
 
 - [Instalation on windows](#instalation-on-windows)
+- [Rust On Bare Metal](#rust-on-bare-metal)
 
 # Instalation on windows
 [Based on this answer on stackoverflow (follow this for a more in depth beginer friendly approach)](https://stackoverflow.com/questions/21196525/rust-installation-on-windows/68835925#68835925)
@@ -63,3 +64,13 @@ Requirements:
           println!("Hello World!");
         }
         ```
+
+# Rust on bare metal
+
+Writting programs and os that run on bare metal is my dream but its complex and information on it scarce or to complex for a mediocre JavaScript developer (like me). So, I compiled a list of links and information for developing for bare metal with rust (I chose rust because, rust is a beuatiful performant languge)
+
+- [Embeded Graphics Libary](https://crates.io/crates/embedded-graphics)
+- [How to write x86 bare-metal hello world in Rust (*by* Yushi Omote)](https://yushiomote.org/posts/baremetal)
+- [UI on bare metal - How did Redox os do it?](https://www.reddit.com/r/rust/comments/fpr52q/how_did_redox_os_make_its_gui/)
+- [Learn os dev with rassberypi and rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+
