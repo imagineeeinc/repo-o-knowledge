@@ -37,14 +37,14 @@ Requirements:
       - Clang [Recomended] (faster, performent, less memory usage):
         ```
         [target.x86_64-pc-windows-gnu]
-        linker = "D:\\Applications\\msys64\\mingw64\\bin\\clang++.exe"
-        ar = "D:\\Applications\\msys64\\mingw64\\bin\\llvm-ar.exe"
+        linker = "C:\\Program Files\\msys64\\mingw64\\bin\\clang++.exe"
+        ar = "C:\\Program Files\\msys64\\mingw64\\bin\\llvm-ar.exe"
         ```
       - GCC
         ```
         [target.x86_64-pc-windows-gnu]
-        linker = "D:\\Applications\\msys64\\mingw64\\bin\\gcc.exe"
-        ar = "D:\\Applications\\msys64\\mingw64\\bin\\ar.exe"
+        linker = "C:\\Program Files\\msys64\\mingw64\\bin\\gcc.exe"
+        ar = "C:\\Program Files\\msys64\\mingw64\\bin\\ar.exe"
         ```
 6.  - Adding these folders to your path
     - Right click on "My Computer" and select "properties"
