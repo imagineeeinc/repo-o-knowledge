@@ -22,6 +22,7 @@ Requirements:
     - Run `pacman -S mingw-w64-x86_64-toolchain`
       - If needed run `pacman -S --needed base-devel mingw-w64-x86_64-toolchain`
     - choose default installation and `y` when asking to install
+    - TODO: add `pacman -S --needed base-devel mingw-w64-ucrt-x86_64-clang mingw-w64-ucrt-x86_64-gdb`
     - Install cmake (optinal) `pacman -S --needed base-devel cmake`
 4.  - Download the windows rust Installer from [here](https://www.rust-lang.org/tools/install)
     - Run `rustup-init.exe` (It is better to launch a console with cmd.exe and launch rustup-init.exe from there)
